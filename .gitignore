@@ -1,0 +1,25 @@
+# Research data and training artifacts
+*.zip
+*.tar
+*.gz
+*.mat
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.mp4
+*.avi
+*.asv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+training-runs/
+Results/
+datasets/
+.env
+.env.*

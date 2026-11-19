@@ -1,0 +1,887 @@
+[
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_inceptionv3.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_inceptionv3.m",
+    "sha256": "4fe35c333040d96105c6fd4c6d03146902623c3c439eb8947f592a81f515f6f3"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_inceptionv3_gpu.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_inceptionv3_gpu.m",
+    "sha256": "0aacdebfe7da01cb77fa3d8a882d939a1486e9f0545b203605384a71258f1923"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_inceptionv3_gpu_btch64.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_inceptionv3_gpu_btch64.m",
+    "sha256": "21fa12cd490d99517dc0c60599c54275e375e2b17ccf481203b91f9f1d1af8a4"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu.m",
+    "sha256": "c4a5938bf7ee5e106998c4d63d5c89cd06497d4137d82a53ab67a4a2dfc2b116"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_crt_2cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_crt_2cls.m",
+    "sha256": "fa8702e6ebe36d189ceb7d45eed36ffea43cf087fb1f9f0f9af1f423d8afab5c"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_with_aug_2cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_with_aug_2cls.m",
+    "sha256": "d340f066d9f7b2bd2675b12f5c94d5399b6e0342caa9f2ecdb0a9f38d08bf59f"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_with_aug_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_with_aug_4cls.m",
+    "sha256": "8cdf65d3ac85db05e757184005a43ea61a058c0968970db740abe984d23b34b0"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_wo_aug_2cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_wo_aug_2cls.m",
+    "sha256": "92699ad766d0016e3f8d1eba5a01435a1f2e2a6f8d8156424256e36d5f1fb3a8"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_wo_aug_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_cmp_wo_aug_4cls.m",
+    "sha256": "24731cabc7708aead7c2aa6748b060a1faf0af04a0f6b9808fcd1c3bf7a10934"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_com_Train_Val_synt_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_com_Train_Val_synt_4cls.m",
+    "sha256": "1f8b5d895e899afcb73ca75c7932bba6673a525eca65995ad0d5e7f498215c34"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_com_Train_synt_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_com_Train_synt_4cls.m",
+    "sha256": "a373f64c666dcd9661f838e429fd44378b072548446419f2baa973735561d452"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_com_synt_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_com_synt_4cls.m",
+    "sha256": "1de22a8c10d390e5c193f9c2b4ab1658e0e7fd359c97dc9eb9835a31e14eb12d"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_crt_2cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_crt_2cls.m",
+    "sha256": "f0c231bc9d96d4429d6dfa52bafbbb3668a2db3c526cc1a3ffadf20a516aea42"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_just_train_still_Sythetic_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_just_train_still_Sythetic_4cls.m",
+    "sha256": "a600a599aa07b9460c6bc98702659f8566af2479f6437d478d1a84785ad9af8d"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_still_Sythetic_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_still_Sythetic_4cls.m",
+    "sha256": "0722e93281792b80ca108bde352003c0774c697fa81187fbd90aa703d29a09bf"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_still_with_aug_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_still_with_aug_4cls.m",
+    "sha256": "bda1f5c19894c39b9f1f73a7aae4b939bf31130d8765d90e02900339568ff148"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_still_wo_aug_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_still_wo_aug_4cls.m",
+    "sha256": "e7dbbc2fb4334cb4ef00c08d3decebd4b28d87b687388fcfa3f57aa99d144576"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_train_still_Sythetic_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_train_still_Sythetic_4cls.m",
+    "sha256": "9f06c5472875dfc81c9548a977ebf458a8482bd4f8da81693d02ea909ce6c7c5"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_train_valid_still_Syth_4cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_segmentedTM_resnet101_gpu_train_valid_still_Syth_4cls.m",
+    "sha256": "3aad6eac0222005f3222892fe0fbd0379933dd464f9e7b6586965c9ccfddc3cb"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Classify_wholeImage_inceptionv3.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Classify_wholeImage_inceptionv3.m",
+    "sha256": "8508aee96cc3c51f1bf66c837a01d99baa96d730ca03d40cd1de6df9d2fb7a61"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Clsy_TM_gpu_still_4cls_version2.txt",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Clsy_TM_gpu_still_4cls_version2.txt",
+    "sha256": "383a0071fd48bc06ef8f6f3d038f9450b60913fac6955d68cdf3d7afde890b8e"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Clsy_TM_gpu_still_with_aug_4cls_version2.txt",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Clsy_TM_gpu_still_with_aug_4cls_version2.txt",
+    "sha256": "bda1f5c19894c39b9f1f73a7aae4b939bf31130d8765d90e02900339568ff148"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Copy_of_Classify_segmentedTM_resnet101_gpu_Stl_crt_2cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Copy_of_Classify_segmentedTM_resnet101_gpu_Stl_crt_2cls.m",
+    "sha256": "29c3629b23f45379d5c4a3f15680252f9d17d7c35fc082f6652fe808d99ae422"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Copy_of_Classify_segmentedTM_resnet101_gpu_Stl_with_aug_2cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Copy_of_Classify_segmentedTM_resnet101_gpu_Stl_with_aug_2cls.m",
+    "sha256": "a4acc061d364e2bd4eb8e27d733da76644afcdb253d07198618711c6e69529a3"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Copy_of_Classify_segmentedTM_resnet101_gpu_cmp_crt_2cls.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Copy_of_Classify_segmentedTM_resnet101_gpu_cmp_crt_2cls.m",
+    "sha256": "dc06cebc364d52074450b7429ce9bc6ceaa2742095308489288bf54970ff9dc5"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/Heatmap_Classify_segmentedTM_inceptionv3.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/Heatmap_Classify_segmentedTM_inceptionv3.m",
+    "sha256": "a625835ef7ccb6e41aa014965f790680bb88e1f4ce1980ec2b1987f55dcce6f2"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/createLgraphUsingConnections.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/createLgraphUsingConnections.m",
+    "sha256": "bc82e97943dfe43206f01a5e08ac23e397884bd896d5243384b5d382961e3013"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/freezeWeights.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/freezeWeights.m",
+    "sha256": "f9a66d6ae63332c9754a6762c0e509c00a214e6262aaf80ceb6b4e6baf0ab342"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/vl_simplenn_move.m",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/vl_simplenn_move.m",
+    "sha256": "5cd801f928bbc2914b3b01ffa7d03712fe3f4dd75e7178d60041e272b55bdb33"
+  },
+  {
+    "path": "code/Transfer_learning_for_multiclass/pytorch_code/main.py",
+    "source_relative_to_Autoscope_2_Codes": "Transfer_learning_for_multiclass/pytorch_code/main.py",
+    "sha256": "4548caf88f896079bb84eec9d63aaed3ba4687752908e1cb604b4d5f1bd2ba7e"
+  },
+  {
+    "path": "code/general_purpose/advancedNonlinearAugmentation.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/advancedNonlinearAugmentation.m",
+    "sha256": "c7e74938365533d949bd4d7b570d4d8771cbc56b50a1d7029041a5b09aaf93f5"
+  },
+  {
+    "path": "code/general_purpose/apply_nonlinear.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/apply_nonlinear.m",
+    "sha256": "eff43332fa882a7279e742fd8a8c647044c80462f3efce5db7e576f3c434288b"
+  },
+  {
+    "path": "code/general_purpose/copy_codes_docs.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/copy_codes_docs.m",
+    "sha256": "2d8d78ee7905fddfea5800bacf614de27f31f13e68d76dca968a0d3f61ebc954"
+  },
+  {
+    "path": "code/general_purpose/copy_files.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/copy_files.m",
+    "sha256": "2b9d82aaef3a4e8ce1767aa8fdf22cbe3e52c0b24f3812e8aad6547815767f4c"
+  },
+  {
+    "path": "code/general_purpose/copy_files_categorized.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/copy_files_categorized.m",
+    "sha256": "3c2a10ff868c789035df5653b4dbb71c17c8ad63b9e3e073cc646ffed88030e7"
+  },
+  {
+    "path": "code/general_purpose/copy_files_excel_sheet.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/copy_files_excel_sheet.m",
+    "sha256": "e5b219da546a21665812da3f16abe250593c4ce2378b5321bd701adaa676dccd"
+  },
+  {
+    "path": "code/general_purpose/copy_files_tofolds.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/copy_files_tofolds.m",
+    "sha256": "ed4931bdd30a2d2a744590ddea838a039d6410779982adbb08b09649ef44b735"
+  },
+  {
+    "path": "code/general_purpose/copy_images.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/copy_images.m",
+    "sha256": "cd867ead41349d570fda293add0bc3e0de71b6a59645742916c603f5934533e6"
+  },
+  {
+    "path": "code/general_purpose/copy_images_diff_names.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/copy_images_diff_names.m",
+    "sha256": "ef132f3ba02d43c912792567fe298afb59e4e919d679df56ee1c0d51f227bd84"
+  },
+  {
+    "path": "code/general_purpose/copy_images_gan.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/copy_images_gan.m",
+    "sha256": "6bd4cd37a5b41cf92761c6a70ea546a1168922e8b4b1d36004be050b542338ee"
+  },
+  {
+    "path": "code/general_purpose/image_rescale_save.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/image_rescale_save.m",
+    "sha256": "5b39f20375332ea5cc95c7ddc2bee70dc3738989ebaf0943f6c8432fb0f5e597"
+  },
+  {
+    "path": "code/general_purpose/image_rescale_save_2.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/image_rescale_save_2.m",
+    "sha256": "35b03c38e6a8f97a43b984fe5e34f7c90c8e120c20a3a7eaae2002a14fc986fa"
+  },
+  {
+    "path": "code/general_purpose/label_image_com_save.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/label_image_com_save.m",
+    "sha256": "47b20418c823ce7ac89b4f362f5d3031380921677ae34c7d1f152f37854ecf75"
+  },
+  {
+    "path": "code/general_purpose/nonlinearAugmentation.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/nonlinearAugmentation.m",
+    "sha256": "db37ebc3300491c6205f706db3d979e31a226a901d4381b67f44ad00e8486d6d"
+  },
+  {
+    "path": "code/general_purpose/nonlinearAugmentation_main.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/nonlinearAugmentation_main.m",
+    "sha256": "af687f2a417cac9ec95af9fc663ba4874ed45eb1b01ff3e3f08655625ef1b837"
+  },
+  {
+    "path": "code/general_purpose/rename_image.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/rename_image.m",
+    "sha256": "58eb0828caece545bd4ca293bc7a4ae0170242b492b0644d0031bb72fb0a946d"
+  },
+  {
+    "path": "code/general_purpose/save_new_dataset.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/save_new_dataset.m",
+    "sha256": "e8491e6fbba3ad81e441c8c3be99e05a24f09347f84433434a58bb9832db4013"
+  },
+  {
+    "path": "code/general_purpose/video2frame.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/video2frame.m",
+    "sha256": "672d1ea379dbcd24ee33552131974c9b2ff06dd68e49e235014bbe7cf0c10720"
+  },
+  {
+    "path": "code/general_purpose/video_duration_calc.m",
+    "source_relative_to_Autoscope_2_Codes": "general_purpose/video_duration_calc.m",
+    "sha256": "9c06c3ad35db97be5bf4a5a5065802ce9abb404be9a41d20183ea1fe837efde8"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/Dockerfile",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/Dockerfile",
+    "sha256": "398c3e7124581dba1e7befc763d5e23eb512b9fcd2f0c25fe54595a8883420e3"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/LICENSE.txt",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/LICENSE.txt",
+    "sha256": "beed8b547f1bc546269c5a5d31d995212f84e653c0d7c5ec67588be4dbb19629"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/README.md",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/README.md",
+    "sha256": "e442732c0bc86980cf1efb084fd46c80c33713883bb9efaba73e7ab86e434823"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/avg_spectra.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/avg_spectra.py",
+    "sha256": "c6b9b1405f0a6c4207e60f4d73a4f2fe1d47c61d6fbd815d289e92036de89e08"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/calc_metrics.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/calc_metrics.py",
+    "sha256": "201bdad58df04be81e6a069342911d4dcc3ade56253d7cd97a652223e3d0d13f"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/dataset_tool.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/dataset_tool.py",
+    "sha256": "0493b1155f28d7e139154c5e8063bc47287a927af0e613cb9d05cce0144805cd"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/environment.yml",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/environment.yml",
+    "sha256": "557b059c6031141de60ea1961178e7fa4dadc881b0bf5ad28bbdf7a64771e521"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/gen_images.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/gen_images.py",
+    "sha256": "db7a588f02ce0a8683ca80bfa2852fb4b56a837dd5d5c8c93df06ecf457a39ba"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/gen_video.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/gen_video.py",
+    "sha256": "cc5e3b48d9077e844efd008487057916e9976e67c3416de2f0e500a1653361c1"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/legacy.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/legacy.py",
+    "sha256": "87df30e050b05d119cb0a697073e74d6af14158f6a3ebae5d0b963e59f130f65"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/myreadme.txt",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/myreadme.txt",
+    "sha256": "27e3c6b7d21fc9833aee89a17241ba1dfe49259977eb4c7ff53f2eaada06c202"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/train.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/train.py",
+    "sha256": "bc3e0854d1788a6c907015c8d9513d97975a38370e0631ab885e6a83ab23910f"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/visualizer.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/visualizer.py",
+    "sha256": "152c028a59c75ecfcbe20243ba9e1e3e7b9e0d797f6d9bc27dc827d12e53627f"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/.github/ISSUE_TEMPLATE/bug_report.md",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/.github/ISSUE_TEMPLATE/bug_report.md",
+    "sha256": "e202d4706deabd00c0c506d8484dee9c67427ee31551b02f91744f5637dd92a5"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/dnnlib/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/dnnlib/__init__.py",
+    "sha256": "51ffd1d000a8c8f0f2ea534a331bb1d25c4978ec88cd19700c46377056d1521d"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/dnnlib/util.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/dnnlib/util.py",
+    "sha256": "6f606ab67522cfe72e0fb19477e357e6a2308f5c7e387e222cad7562d4a2d6d6"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/docs/configs.md",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/docs/configs.md",
+    "sha256": "feb93dd2159204756698032ce28276ba7ba33ba043cf3f6d938b7d9224d5fee5"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/docs/dataset-tool-help.txt",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/docs/dataset-tool-help.txt",
+    "sha256": "c24381336a5240ff5a92a4f0a4e0d6e2c1234a753229d64dafea671e01346cf2"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/docs/train-help.txt",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/docs/train-help.txt",
+    "sha256": "df8e52c1f14a909f27f8c774519dcf53eae7aba19e85d9d2beea9083d8fa40f3"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/docs/troubleshooting.md",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/docs/troubleshooting.md",
+    "sha256": "35e9c94d97b10e3089b46633f79dcca8dab7e4d5f3fcec61ab06d6070df9f832"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/gui_utils/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/gui_utils/__init__.py",
+    "sha256": "4b46318f70705e2a76a147d008b0a4d793c10b774edb7b5d2241f56ed198370a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/gui_utils/gl_utils.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/gui_utils/gl_utils.py",
+    "sha256": "7bc73df9b57ba90eaafecfd4dc391509b25fc2984032d204fd363421ac9dabaf"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/gui_utils/glfw_window.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/gui_utils/glfw_window.py",
+    "sha256": "d0a9ea6c17520a0b45c57089f7e3a366c32389daaa4fa691baeb6ad462de77c7"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/gui_utils/imgui_utils.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/gui_utils/imgui_utils.py",
+    "sha256": "a7f7fe4b02b7b6e65093c1a15ae9bd25409e00e7768d0ed7b0ef11977eaa8fc5"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/gui_utils/imgui_window.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/gui_utils/imgui_window.py",
+    "sha256": "e5cb5f520eef663cd82ca20978735fd30123bda02b204d2b68a6ce4077455701"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/gui_utils/text_utils.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/gui_utils/text_utils.py",
+    "sha256": "5a798517d6abefa906e6fd005c9d7bc020fa66e31d270949d80df7b6079b3bd5"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/metrics/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/metrics/__init__.py",
+    "sha256": "4b46318f70705e2a76a147d008b0a4d793c10b774edb7b5d2241f56ed198370a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/metrics/equivariance.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/metrics/equivariance.py",
+    "sha256": "94e0ff1bac522084c87e03028699888201c1d29813cae8af51fa006f785d2e28"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/metrics/frechet_inception_distance.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/metrics/frechet_inception_distance.py",
+    "sha256": "3415a431109a00949dfd409cef4c9611b17f3d66720d6a028b95ae052ded3a06"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/metrics/inception_score.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/metrics/inception_score.py",
+    "sha256": "115d579c7404f6c989a25d37b543311fbe9ba84c874aa5aa07a0e331223dc870"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/metrics/kernel_inception_distance.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/metrics/kernel_inception_distance.py",
+    "sha256": "be42c032b936120be26846f27db95f0b85ec3bf653ecd3c0349a9f84ea3ac081"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/metrics/metric_main.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/metrics/metric_main.py",
+    "sha256": "92505d54c68be17b8ca8d6a93caa89880d5badbba1663c63415cb3a3ff6eae0e"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/metrics/metric_utils.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/metrics/metric_utils.py",
+    "sha256": "a5645730829c542d4103b1bb37c78b094ac065326dbbf7f43d24043cd28e56d8"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/metrics/perceptual_path_length.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/metrics/perceptual_path_length.py",
+    "sha256": "e4490ff3f794069e5802d852cafcb1b878e9615bf713c1b9492f35441b3d93dd"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/metrics/precision_recall.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/metrics/precision_recall.py",
+    "sha256": "c1472bfd7c421bc759bbb7b88d0db42d432fd54ea2dc027a9854eea75708823c"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/__init__.py",
+    "sha256": "4b46318f70705e2a76a147d008b0a4d793c10b774edb7b5d2241f56ed198370a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/custom_ops.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/custom_ops.py",
+    "sha256": "1f192dbcd7e9539c13e71d119f9ae34d8b492112a4fec90e3f5ba67b009b46b4"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/misc.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/misc.py",
+    "sha256": "3839d944f18aa597f4ead815fd5a224f09a6d15857a64a85f3d93c27204fc770"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/persistence.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/persistence.py",
+    "sha256": "2c8b87d7915427bad127cdddf60d2ac2f76a30d34b4107530265cf7b3193967f"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/training_stats.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/training_stats.py",
+    "sha256": "feded5f53e6a4b4140bb7fb1352cff334e0db1ade968d6b91dd1425caf5d9631"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/__init__.py",
+    "sha256": "4b46318f70705e2a76a147d008b0a4d793c10b774edb7b5d2241f56ed198370a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/bias_act.cpp",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/bias_act.cpp",
+    "sha256": "8336dcaa2764a2ff44ce1c7f3719b1e07e47486fca88029ff3a85cd22a858862"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/bias_act.cu",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/bias_act.cu",
+    "sha256": "40968027dc635d822bf8dfeb901856692254471502b6cf33b34b73aa297a6197"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/bias_act.h",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/bias_act.h",
+    "sha256": "b56aa446932247fff1d92bd917b948202f4d73ed7c8e962436385a2f0f47a5ed"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/bias_act.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/bias_act.py",
+    "sha256": "416f24017deec855671290180f61f9913844b3e26c3c7b10afe3563e2b2b59f8"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/conv2d_gradfix.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/conv2d_gradfix.py",
+    "sha256": "60abc31b6bbfbdd5e9366dac48590877002c5edb2b94646362bbcc62b07398fd"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/conv2d_resample.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/conv2d_resample.py",
+    "sha256": "813f6a4fa8e28896738fdf439e7d9180a3c57bd983f6a6718e8940b60445f915"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu.cpp",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu.cpp",
+    "sha256": "8170b7284a0b270d09ea79212a9e36fdbafb836ad5d11867971ae8afc05cbbe8"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu.cu",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu.cu",
+    "sha256": "a4d6b26aa30024a350585a6fe1668e2b10072946e2c364a9f177cf300b666a50"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu.h",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu.h",
+    "sha256": "39b1489fd5fe9023d8aa52fe2fc19dba5d04f13d731ee86d0574037c688be937"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu.py",
+    "sha256": "63a0e0936f06cb9491e83d2a632c19ec756c8014087dc9d551780f11baef2a7c"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu_ns.cu",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu_ns.cu",
+    "sha256": "de3e926ef1f602138b51aa01e65cdf1d1c38fde683c9c732227517f106ec7616"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu_rd.cu",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu_rd.cu",
+    "sha256": "2595c6abb24afc411b9cbea27abcd7f91faf09c511a6dfca420871cc41aadf31"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu_wr.cu",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/filtered_lrelu_wr.cu",
+    "sha256": "402739c9c68d7db4db1ba4b2bc44111282000b016f66fe72261b29fc129c12f3"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/fma.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/fma.py",
+    "sha256": "fd5c9b00ca52b9647bc00b935924bf4e1b3531bab74d900fc250578ea5967408"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/grid_sample_gradfix.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/grid_sample_gradfix.py",
+    "sha256": "04bcfbf1f43a4e1b2cb286365eb9e50dcd438b408fd36622331e1cd85c529888"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/upfirdn2d.cpp",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/upfirdn2d.cpp",
+    "sha256": "6672b3589ca70498a8d5b56b06e22047d02b5ed72d437df6f188398ae55040b5"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/upfirdn2d.cu",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/upfirdn2d.cu",
+    "sha256": "f424932b7dc191f740d6c0853003a923a3c8de9793c0d69a6d0d85d9c02c2413"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/upfirdn2d.h",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/upfirdn2d.h",
+    "sha256": "e03817d9980fed68934debfd469aa1aa75cc76a7ff21864bfc8d0f8e522be333"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/torch_utils/ops/upfirdn2d.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/torch_utils/ops/upfirdn2d.py",
+    "sha256": "d5f1e19b5bd291105216365764d95a7ad9d0d5db375d38fbc6717b113bda2919"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/training/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/training/__init__.py",
+    "sha256": "4b46318f70705e2a76a147d008b0a4d793c10b774edb7b5d2241f56ed198370a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/training/augment.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/training/augment.py",
+    "sha256": "43c6b98bc68d5d214dd2e2775a10eb007dee034c005766fbc310005147bfb788"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/training/dataset.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/training/dataset.py",
+    "sha256": "914a5e72c20d5d83bc7fcf9e4f51cea9169785d4b7d2682dd2d7df3f32b7aa42"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/training/loss.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/training/loss.py",
+    "sha256": "95cd1d2fb2db27b0c501d4913429ecc1bb21e50c090bab02044aa35c090a64ee"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/training/networks_stylegan2.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/training/networks_stylegan2.py",
+    "sha256": "b6f14e8fa2a95de4d38218fef31380c6a70de770f585107e209ff83075c307ef"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/training/networks_stylegan3.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/training/networks_stylegan3.py",
+    "sha256": "06082fb3e8929e477f58fb8bc78e7ecb9a9209eb01444272d1d153c85a6a89f7"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/training/training_loop.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/training/training_loop.py",
+    "sha256": "85dc3b5b84f8dc6a17fab7f7ca3e155648b5097808630a11ca8b43f355eb2e48"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/__init__.py",
+    "sha256": "4b46318f70705e2a76a147d008b0a4d793c10b774edb7b5d2241f56ed198370a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/capture_widget.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/capture_widget.py",
+    "sha256": "37af88ab08c98d1b92d36de7d2a12301a56797c647e2cf98a5f050b3ce007c68"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/equivariance_widget.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/equivariance_widget.py",
+    "sha256": "9b789422c957eb946a47f2fd5b541021cda3dc4a24b333a24100e5ca07177c3f"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/latent_widget.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/latent_widget.py",
+    "sha256": "6a6185f59de4cbe75f649393e20cef8612822325be0cc3f26eadf49a7834c3f7"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/layer_widget.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/layer_widget.py",
+    "sha256": "1c0c8162aab89210ec407c4728d620a4f670854d663ede2b30eeb2855f22307a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/performance_widget.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/performance_widget.py",
+    "sha256": "48b9d25dbd1fb8317e5a1574918e898c4261b285ccff719c1d77533920bbb4df"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/pickle_widget.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/pickle_widget.py",
+    "sha256": "df30c4bf8a2473dc14619e69c6457b30d86b5a45713cc66ec999c8b95670f935"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/renderer.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/renderer.py",
+    "sha256": "04bed612ba3cf93f3200fa4bd765c7f7cfe52dc8b3189e81a7c44aec65785517"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/stylemix_widget.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/stylemix_widget.py",
+    "sha256": "dc7fc80999b63f3317ccba54825537674a6c1d4ea8c5e63a9d153040888c8d1e"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan3/viz/trunc_noise_widget.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan3/viz/trunc_noise_widget.py",
+    "sha256": "45e24e904ae7973a349fe98c3555c799662e78a09a9dee137d9318e283443c23"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/.gitignore",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/.gitignore",
+    "sha256": "214b89b2f6385972f0acb0d4b5fd3776b38d0604d298922f851a94ed7f682623"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/Dockerfile",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/Dockerfile",
+    "sha256": "1c642f14fcabc75c672025e580b99ae6da5ba2adca64a3c81da665395b158346"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/LICENSE.txt",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/LICENSE.txt",
+    "sha256": "d782a1e765f4848609352fd9d74cc36b103ef6f51900baed06fb1c995188b95f"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/README.md",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/README.md",
+    "sha256": "eaa43bb9f453952f725a35924261331b83023af64fca7e0ea65c0a30551710dd"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/calc_metrics.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/calc_metrics.py",
+    "sha256": "dadf6098c1181e7289c71262693377ecfcc612cb9b11f246771fbb7ceaa1b932"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/dataset_tool.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/dataset_tool.py",
+    "sha256": "add941428f690553a5c7e9889022c8ee2436ed8797ad29083512c90e28a5829a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/docker_run.sh",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/docker_run.sh",
+    "sha256": "87035b65777ecd28bdc1244c4c59cab0afdb9516a9c884ca3fa49b29f0f8b640"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/generate.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/generate.py",
+    "sha256": "8ffc1160a3dbee355e002eea37725445e33cd5645f9f80a5b705435bd7c5991c"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/gputest.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/gputest.py",
+    "sha256": "ffc9262dbed742b1214fd59eebf9c651b03cab296119d3bfa947521b102c2606"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/legacy.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/legacy.py",
+    "sha256": "6496d8ebe84d1e515832eada2c9688968ce23c6e13b1e2bc14e673ad96bb562a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/myreadme.txt",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/myreadme.txt",
+    "sha256": "32c43fdba542ec8a0c878cf13781d07ae997c595b43b42fbe73d5ae0c3a3170e"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/projector.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/projector.py",
+    "sha256": "a429abdc102aba8be508b257ddeef3a4acfabdeb871e6592299ce8448d29ba03"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/style_mixing.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/style_mixing.py",
+    "sha256": "75e7e5a292ace8fdb98d9e9f23173334b1b2e3f41467e45f667f127e3511d6e6"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/train.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/train.py",
+    "sha256": "9edbfdbdbdc912661c20d791d311e7a0e6d11429969cc5ea20cb7c65b9f30a75"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/.github/ISSUE_TEMPLATE/bug_report.md",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/.github/ISSUE_TEMPLATE/bug_report.md",
+    "sha256": "2a270d78ae518879326ad0a510098f8e3e663048bc84db91841ca45cac806b1f"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/dnnlib/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/dnnlib/__init__.py",
+    "sha256": "01ee5300565a54d4a309ae87784f314a0c82db6c63e6735d1e9a124327f4c12d"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/dnnlib/util.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/dnnlib/util.py",
+    "sha256": "8f4c1e9e7eac60f9bf541b2fc0e649a022b2ddde8178df7f85f924f63e3db426"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/docs/dataset-tool-help.txt",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/docs/dataset-tool-help.txt",
+    "sha256": "95fae57d3b491aeda82e367216d646279357a0653a052ae4bd59275152da3f0c"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/docs/train-help.txt",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/docs/train-help.txt",
+    "sha256": "651e057cd4e4eda1e0663078cc6ed045f1b0c0707fbab7dbf401bca4fc9a391c"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/metrics/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/metrics/__init__.py",
+    "sha256": "5efa02ab9dadcd7c016c7de60161b08288ae64d3375ed6f287c1501b2635f3d9"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/metrics/frechet_inception_distance.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/metrics/frechet_inception_distance.py",
+    "sha256": "6159a9b62eee287ae30386c4a7d3315dc4916e61ecdb6513c756b31e684fdee0"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/metrics/inception_score.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/metrics/inception_score.py",
+    "sha256": "ed168258bd1ac045acc72437445b774fba793a10ac10b2f43ed894fd6d747912"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/metrics/kernel_inception_distance.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/metrics/kernel_inception_distance.py",
+    "sha256": "c025d3fa4176eec2b7d0ad0fe27c8dc6d93405d3e1c3095578ee72f64060c453"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/metrics/metric_main.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/metrics/metric_main.py",
+    "sha256": "f26b087370636f0db1f084a02afb10bddcb7e2faed7e858be4b5d6226be9ff9a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/metrics/metric_utils.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/metrics/metric_utils.py",
+    "sha256": "05f53790e0173a06fb0b363c2f4d23cbbe63199b2f6fea412a5e6a0c9ca93f81"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/metrics/perceptual_path_length.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/metrics/perceptual_path_length.py",
+    "sha256": "f6e826ffa344837dde292459fcb24a919f7fc664a47d579aa45a2c3cff606197"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/metrics/precision_recall.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/metrics/precision_recall.py",
+    "sha256": "41d16b3ba192c61bebd35014cf12f5d2acb0b52375aaedd5fd1b4605243ec997"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/__init__.py",
+    "sha256": "41573fda6f071467e105e595188c3e9641499ba22462046e9bcf725c4a5616cc"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/custom_ops.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/custom_ops.py",
+    "sha256": "ee123ae0458fbe463000d5962a5b804d9e91b25d3fda8500eeaa6ddf6b5c932a"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/misc.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/misc.py",
+    "sha256": "8b66e614f3dbb27b9b3280030efcb65a94e5cfd0e9d940302692452cb7c44012"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/persistence.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/persistence.py",
+    "sha256": "1f24073d03fbb2d772babbf7b8a1175bec6c3423314c2649e9a8a13d37757121"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/training_stats.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/training_stats.py",
+    "sha256": "c1c105b7e5c2fa5883516bf2bc05b588da5f45939d37f3fe281abca4579e7616"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/__init__.py",
+    "sha256": "41573fda6f071467e105e595188c3e9641499ba22462046e9bcf725c4a5616cc"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/bias_act.cpp",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/bias_act.cpp",
+    "sha256": "4a3eb091ce936451ac3a0e9c7c771cc5576cba195332cd777ec275cb806f4f53"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/bias_act.cu",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/bias_act.cu",
+    "sha256": "bc6b93e2c347cc00b07dfe0f6dca35011c2291645806239cc86632902694d017"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/bias_act.h",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/bias_act.h",
+    "sha256": "f0ca2d087bb22b20f6642e4affd7c77e2ff5b601a2f6d1632a79002608d87aa4"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/bias_act.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/bias_act.py",
+    "sha256": "ae9d4a2efbb61f7d21d2e361a5a145704351cc9733d2bd3e5ba4e64938d8e3e3"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/conv2d_gradfix.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/conv2d_gradfix.py",
+    "sha256": "8d59bb824cd8f730032bffd6f02353bae6df96c4541caad31063e3e5f635ffb3"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/conv2d_resample.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/conv2d_resample.py",
+    "sha256": "7de74103801ab85e9f909dfe2386f3fcbc53a08a5b8466da147ab37be866c20d"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/fma.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/fma.py",
+    "sha256": "f3fdd6b890e250124557cba35360a1297cac5bdbc4925325403b44bf290956e9"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/grid_sample_gradfix.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/grid_sample_gradfix.py",
+    "sha256": "a49a8195b734ecba95c9b63d035f26faa5d794a0b26eb3e9d5f3c521be29c536"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/upfirdn2d.cpp",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/upfirdn2d.cpp",
+    "sha256": "a3930ed91584ab11786f44aca9abad9beab9f4020b564d4c547727da49d70b11"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/upfirdn2d.cu",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/upfirdn2d.cu",
+    "sha256": "af059a0dd7be4ba24e2b6b2f8fb5bcb0a89c4ac8320d17a59f228580164528ca"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/upfirdn2d.h",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/upfirdn2d.h",
+    "sha256": "9f703976585fd9c07d18cf1c00edd3a495dc641ff1e1e1671e2df2ab24126535"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/upfirdn2d.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/torch_utils/ops/upfirdn2d.py",
+    "sha256": "7b5865e70ac4156edaefb2a372fee27dc55eb5661568b337cb4168e8936384a8"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/training/__init__.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/training/__init__.py",
+    "sha256": "5efa02ab9dadcd7c016c7de60161b08288ae64d3375ed6f287c1501b2635f3d9"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/training/augment.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/training/augment.py",
+    "sha256": "fd81c871a9bfbb7feaad138b1e875db05c640060bdbf0342247d209eb48ba8f9"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/training/dataset.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/training/dataset.py",
+    "sha256": "10e433ffde6e3e63963711390ee8eeaa6f0e5a00da9f883117331a48b36e5145"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/training/loss.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/training/loss.py",
+    "sha256": "1bd68d7dc1c92c1b78b91f193a45a433b1ff374614f91909ea8cb88eac7bc2d7"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/training/networks.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/training/networks.py",
+    "sha256": "df49fc78a0364015a09b592bb43546af83a6cdaad753d89a2a1a69bd6e171c24"
+  },
+  {
+    "path": "code/DatasetGAN/stylegan2-ada-pytorch/training/training_loop.py",
+    "source_relative_to_Autoscope_2_Codes": "DatasetGAN/stylegan2-ada-pytorch/training/training_loop.py",
+    "sha256": "0b589a731712c51791eb22efe0dc1ee6856bf3e9335920db02a3e38dee909eb3"
+  }
+]
